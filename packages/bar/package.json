@@ -1,14 +1,14 @@
 {
-    "name": "@djhojd/bar",
-    "version": "0.0.1",
-    "description": "Bar description",
-    "main": "index.js",
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "author": "Claudiu Hojda",
-    "license": "ISC",
-    "publishConfig": {
-      "access": "public"
-    }
+  "name": "@djhojd/bar",
+  "version": "0.0.1",
+  "description": "Bar description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "author": "Claudiu Hojda",
+  "license": "ISC",
+  "publishConfig": {
+    "access": "public"
   }
+}
