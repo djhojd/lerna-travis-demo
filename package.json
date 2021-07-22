@@ -1,0 +1,22 @@
+{
+  "name": "lerna-travis-demo",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djhojd/lerna-travis-demo.git"
+  },
+  "keywords": [],
+  "author": "Claudiu Hojda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djhojd/lerna-travis-demo/issues"
+  },
+  "homepage": "https://github.com/djhojd/lerna-travis-demo#readme",
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}
